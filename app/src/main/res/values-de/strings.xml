@@ -49,5 +49,5 @@
   <string name="show_map_on_current_location">Karte an aktueller Position anzeigen?</string>
   <string name="zoom_out">Herauszoomen</string>
   <string name="cannot_locate_user">Konnte Benutzer nicht orten. Bitte Ortsdienste in den Systemeinstellungen einschalten!</string>
-  <string name="error_couldnt_connect_or_register">Fehler: Konnte nicht zum Server verbinden und den Benutzer überprüfen.</string>
+  <string name="error_couldnt_connect_or_register">Fehler: Konnte nicht zum Server verbinden um den Benutzer überprüfen.</string>
 </resources>
