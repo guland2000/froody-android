@@ -49,4 +49,5 @@
   <string name="show_map_on_current_location">Exibir mapa com a localização atual?</string>
   <string name="zoom_out">Afastar</string>
   <string name="cannot_locate_user">Impossível achar o usuário. Habilite os serviços de localização do android.</string>
+  <string name="error_couldnt_connect_or_register">Impossível conectar ao servidor ou detectar o usuário.</string>
 </resources>
