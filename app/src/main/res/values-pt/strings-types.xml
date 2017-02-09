@@ -36,4 +36,17 @@
   <string name="entry_type__cucumber">Pepino</string>
   <string name="entry_type__egg">Ovo</string>
   <string name="entry_type__fish">Peixe</string>
+  <string name="entry_type__flower">Flor</string>
+  <string name="entry_type__honey">Mel</string>
+  <string name="entry_type__lemon">Limão</string>
+  <string name="entry_type__mushroom">Cogumelo</string>
+  <string name="entry_type__orange">Laranja</string>
+  <string name="entry_type__peach">Pêssego</string>
+  <string name="entry_type__potato">Batata</string>
+  <string name="entry_type__sapling">Muda de planta</string>
+  <string name="entry_type__strawberry">Morango</string>
+  <string name="entry_type__tomato">Tomate</string>
+  <string name="entry_type__wood">Madeira</string>
+  <string name="entry_type__zucchini">Abobrinha</string>
+  <string name="entry_type__aubergine">Beringela</string>
 </resources>
