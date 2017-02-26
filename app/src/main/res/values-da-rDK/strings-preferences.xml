@@ -3,5 +3,8 @@
 <resources>
   <!-- Keys (not translate able -->
   <!-- Network -->
+  <string name="pref_cat__network">Netværk</string>
+  <string name="pref_title__froody_server">Skift server</string>
+  <string name="pref_title__clear_cache">Ryd cache</string>
   <!-- App -->
 </resources>
