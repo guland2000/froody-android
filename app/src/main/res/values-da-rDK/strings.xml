@@ -15,8 +15,34 @@
   <string name="about_">Om</string>
   <!-- More general words -->
   <string name="search_dotdotdot">Søg&#8230;</string>
+  <string name="distribution_type">Tilgængelighed</string>
+  <string name="certification">Certificering</string>
+  <string name="contact">Kontakt</string>
+  <string name="maintainers">Udviklere</string>
+  <string name="map">Kort</string>
+  <string name="blog">Blog</string>
+  <string name="license">Licens</string>
   <!-- Main -->
+  <string name="navigation_drawer_open">Åbn navigations-skuffe</string>
+  <string name="navigation_drawer_close">Luk navigations-skuffe</string>
+  <string name="no_entries_were_published_by_me">Ingen emner tilgængelige</string>
+  <string name="help_and_share"><![CDATA[Hjælp & Del]]></string>
+  <string name="really_delete_entry">Vil du virkelig slette dette emne?</string>
+  <string name="share_entry_ask">Del emne?</string>
   <!-- Publish -->
+  <string name="suggested">Foreslået</string>
+  <string name="select_froody">Vælg Froody&#8230;</string>
+  <string name="hint__description__enter_here">Beskriv emnet her (f.eks. kvalitet, bedst egnet til syltetøj, sort&#8230;)</string>
+  <string name="hint__contact__enter_here">Indtast kontakt-detaljer for emnet her (bør indeholde tlf.-nummer eller email-adresse)</string>
+  <string name="publish_entry">Udgiv</string>
+  <string name="limited_time_active_notice">Bemærk! Emnet er tilgængeligt fra nu og 3 uger frem.</string>
+  <string name="share_my_entry_at_froody">Mine emner i Froody-applikationen</string>
+  <string name="share_chooser_share_entry">Del emne</string>
+  <string name="nav__my_entries">Mine Emner</string>
   <!-- Info -->
+  <string name="show_licenses">Vis licenser</string>
   <!-- Location -->
+  <string name="request_location">Forespørg placering</string>
+  <string name="gps_locating_user">Henter placering&#8230;</string>
+  <string name="address_most_near">I nærheden</string>
 </resources>
