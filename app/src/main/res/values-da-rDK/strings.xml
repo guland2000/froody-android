@@ -3,7 +3,18 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Billede</string>
+  <string name="reset">Nulstil</string>
+  <string name="settings">Indstillinger</string>
+  <string name="more">Mere</string>
+  <string name="description">Beskrivelse</string>
+  <string name="location">Placering</string>
+  <string name="error">Fejl</string>
+  <string name="all">Alle</string>
+  <string name="contributors">Bidragsydere</string>
+  <string name="about_">Om</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Søg&#8230;</string>
   <!-- Main -->
   <!-- Publish -->
   <!-- Info -->
