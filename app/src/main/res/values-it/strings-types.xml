@@ -9,7 +9,44 @@
   <!-- Certification Types -->
   <string name="certification_type__none">Nessuno</string>
   <string name="certification_type__bio">Bio</string>
+  <string name="certification_type__demeter">Demeter</string>
   <!-- Distribution Types -->
+  <string name="distribution_type__free">Gratuito</string>
+  <string name="distribution_type__donate">Donazione</string>
+  <string name="distribution_type__sale">Commerciale</string>
+  <string name="distribution_type__swap">Baratto</string>
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__miscellaneous">Vario</string>
+  <string name="entry_type__special__water">Acqua</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">Mela</string>
+  <string name="entry_type__pear">Pera</string>
+  <string name="entry_type__cherry">Ciliegia</string>
+  <string name="entry_type__plum">Prugna</string>
+  <string name="entry_type__currant">Ribes</string>
+  <string name="entry_type__grape">Uva</string>
+  <string name="entry_type__hazelnut">Nocciola</string>
+  <string name="entry_type__milk">Latte</string>
+  <string name="entry_type__raspberry">Lampone</string>
+  <string name="entry_type__walnut">Noce</string>
+  <string name="entry_type__carrot">Carota</string>
+  <string name="entry_type__cereal">Cereali</string>
+  <string name="entry_type__chili">Peperoncino</string>
+  <string name="entry_type__corn">Pannocchia</string>
+  <string name="entry_type__cucumber">Cetriolo</string>
+  <string name="entry_type__egg">Uova</string>
+  <string name="entry_type__fish">Pesce</string>
+  <string name="entry_type__flower">Fiore</string>
+  <string name="entry_type__honey">Miele</string>
+  <string name="entry_type__lemon">Limone</string>
+  <string name="entry_type__mushroom">Fungo</string>
+  <string name="entry_type__orange">Arancia</string>
+  <string name="entry_type__peach">Pesca</string>
+  <string name="entry_type__potato">Patata</string>
+  <string name="entry_type__sapling">Alberello</string>
+  <string name="entry_type__strawberry">Fragola</string>
+  <string name="entry_type__tomato">Pomodoro</string>
+  <string name="entry_type__wood">Legna</string>
+  <string name="entry_type__zucchini">Zucchine</string>
+  <string name="entry_type__aubergine">Melanzana</string>
 </resources>
