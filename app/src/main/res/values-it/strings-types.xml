@@ -44,9 +44,9 @@
   <string name="entry_type__peach">Pesche</string>
   <string name="entry_type__potato">Patate</string>
   <string name="entry_type__sapling">Alberelli</string>
-  <string name="entry_type__strawberry">Fragola</string>
-  <string name="entry_type__tomato">Pomodoro</string>
+  <string name="entry_type__strawberry">Fragole</string>
+  <string name="entry_type__tomato">Pomodori</string>
   <string name="entry_type__wood">Legna</string>
   <string name="entry_type__zucchini">Zucchine</string>
-  <string name="entry_type__aubergine">Melanzana</string>
+  <string name="entry_type__aubergine">Melanzane</string>
 </resources>
