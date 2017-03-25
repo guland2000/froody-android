@@ -22,6 +22,7 @@
   <string name="map">Karte</string>
   <string name="blog">Blog</string>
   <string name="license">Lizenz</string>
+  <string name="changelog">Änderungen</string>
   <!-- Main -->
   <string name="navigation_drawer_open">Nav-Drawer öffnen</string>
   <string name="navigation_drawer_close">Nav-Drawer schließen</string>
