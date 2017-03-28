@@ -22,6 +22,7 @@
   <string name="map">Mapa</string>
   <string name="blog">Blog</string>
   <string name="license">Licence</string>
+  <string name="changelog">Seznam změn</string>
   <!-- Main -->
   <string name="navigation_drawer_open">Otevřít draw navigací</string>
   <string name="navigation_drawer_close">Zavřít draw navigací</string>
