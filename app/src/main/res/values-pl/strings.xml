@@ -54,4 +54,5 @@
   <string name="show_map_on_current_location">Pokazać mapę dla aktualnego położenia?</string>
   <string name="zoom_out">Pomniejsz</string>
   <string name="cannot_locate_user">Nie można określić Twojego położenia. Włącz usługę lokalizacji w ustawieniach systemu!</string>
+  <string name="error_couldnt_connect_or_register">Błąd: Nie udało się połączyć z serwerem lub sprawdzić użytkownika.</string>
 </resources>
