@@ -49,4 +49,5 @@
   <string name="entry_type__wood">Drewno</string>
   <string name="entry_type__zucchini">Cukinia</string>
   <string name="entry_type__aubergine">Bakłażan</string>
+  <string name="entry_type__mango">Mango</string>
 </resources>
