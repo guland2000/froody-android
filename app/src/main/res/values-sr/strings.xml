@@ -36,7 +36,7 @@
   <string name="suggested">Предложено</string>
   <string name="select_froody">изаберите шта нудите&#8230;</string>
   <string name="hint__description__enter_here">унесите опис овде (нпр. квалитет, за прављење мармеладе, подврста&#8230;)</string>
-  <string name="hint__contact__enter_here">унесите детаље за контакт овде (требало би да садржи број телефона или е-адресу)</string>
+  <string name="hint__contact__enter_here">унесите податке за контакт (требало би да садржи телефон или е-адресу)</string>
   <string name="publish_entry">Објави</string>
   <string name="limited_time_active_notice">Упозорење! Унос ће бити доступан наредне %1$d недеље.</string>
   <string name="share_my_entry_at_froody">Моји уноси у Фруди</string>
