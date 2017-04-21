@@ -49,4 +49,5 @@
   <string name="entry_type__wood">Fa</string>
   <string name="entry_type__zucchini">Cukkini</string>
   <string name="entry_type__aubergine">Padlizsán</string>
+  <string name="entry_type__mango">Mangó</string>
 </resources>
