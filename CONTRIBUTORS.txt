@@ -17,3 +17,4 @@ Zsolt Szakács (https://github.com/maxigaz): Hungarian translation
 Jorge López (https://github.com/ToasterRaider): Spanish translation
 Luís F.S. Rosa (https://github.com/luisfsr): Brazilian Portuguese translation
 Danilo Raffaelli (https://crowdin.com/profile/Daraf): Italian translation
+Андрей Гуляйкин (lycoris@ya.ru): Russian translation
